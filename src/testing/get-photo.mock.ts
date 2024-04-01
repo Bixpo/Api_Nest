@@ -20,5 +20,4 @@ export const getPhoto = async () => {
   };
 
   return photo;
-
 };
